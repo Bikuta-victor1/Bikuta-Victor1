@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor 👋
 
-I am a software engineer based in Lagos, Nigeria, I build mobile applications with fluid designs, Leveraging on Flutter and Dart. I love to solve problems. Please feel free to reach out to me. I look forward to hearing from you 😄😄😄
+I'm a software engineer based in Ontario, Canada, specializing in developing mobile applications with fluid designs using Flutter and Dart. I'm passionate about solving problems and creating elegant solutions that deliver exceptional user experiences. 😄😄😄
 
 <p >
 <a href="https://twitter.com/AdekolaVictor11"><img height="30" src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png"></a>&nbsp;&nbsp;
